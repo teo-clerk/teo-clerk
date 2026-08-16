@@ -31,11 +31,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=teo-clerk&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=teo-clerk&theme=dark&hide_border=false" height="165" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=teo-clerk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
