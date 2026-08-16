@@ -28,16 +28,8 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=teo-clerk&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=teo-clerk&icon=0&color=0" alt="Profile Views" />
-  </a>
 </p>
